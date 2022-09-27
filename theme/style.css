@@ -6,6 +6,7 @@ html, body {
   font-size: 100%;
   background-color: #25262d;
   color: #ffffff;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h2 {
@@ -13,4 +14,14 @@ h2 {
   font-weight: 900;
   font-stretch: semi-expanded;
   color:#7bd8aa;
+}
+
+a {
+  text-decoration: none;
+  color: #7bd8aa;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:hover {
+  color: #a3efc9;
 }
