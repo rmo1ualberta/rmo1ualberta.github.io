@@ -1,9 +1,16 @@
 html, body {
-  width: 75%
+  width: 75%;
   margin-left: auto;
   margin-right: auto;
   border: 0;
   font-size: 100%;
   background-color: #25262d;
   color: #ffffff;
+}
+
+h2 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 900;
+  font-stretch: semi-expanded;
+  color:#7bd8aa;
 }
